@@ -1,2 +1,1 @@
-# ClusteringStudents
 # StudentClustering
